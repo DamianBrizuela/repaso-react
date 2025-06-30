@@ -14,7 +14,7 @@ export const ListaOpciones = () => {
 
   return (
     <div>
-        <h1>Ingredientes '<span>Guiso de Lentejas</span>'</h1>
+        Ingredientes '<span>Guiso de Lentejas</span>'
         <ul>
             {
                 ingredientes.map((ingrediente, indice) => {
